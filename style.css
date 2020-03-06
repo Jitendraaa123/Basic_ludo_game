@@ -1,0 +1,45 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+body{
+    background-color: blue;
+}
+
+.container{
+    width: 70%; margin:auto ;
+    text-align: center;
+}
+.dice{
+text-align: center;
+display: inline-table;
+padding-left:50px ;
+}
+
+h1{
+    margin: 30px;
+    text-shadow: 5px 0 white;
+    font-size: 6rem;
+    color: turquoise;
+}
+
+p{
+    font-size: 2rem;
+    color: thistle;
+    text-shadow: 1px 1px hotpink;}
+
+
+    button{
+        padding: 10px;
+        background-color: hotpink;
+        color: white;
+        border: none;
+        margin-left: 40px;
+        margin-top: 10px;
+
+
+    }
+
+    img{
+        width: 75%;
+    }
